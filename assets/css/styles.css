@@ -132,6 +132,7 @@ h1 {
 }
 footer {
   padding: 60px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6) 0%, rgba(49, 168, 221, 0.2) 100%);
 }
 footer > img {
   display: block;
